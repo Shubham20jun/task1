@@ -1,0 +1,11 @@
+.nav-link{
+    display: flex;
+    gap:59rem
+    
+   
+}
+.nav-leftside{
+    display: flex;
+    gap: 1rem;
+    
+}
